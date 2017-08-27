@@ -97,6 +97,7 @@ Item {
         width: 88
         height: 32
         text: qsTr("Apply")
+        enabled: false
     }
 
     Label {

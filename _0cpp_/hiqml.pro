@@ -34,4 +34,5 @@ HEADERS += \
 
 DISTFILES += \
     HiPython.py \
-    pymain.py
+    pymain.py \
+    patchmain.py

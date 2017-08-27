@@ -7,5 +7,8 @@
         <file>Simple.qml</file>
         <file>SimpleForm.ui.qml</file>
         <file>AQmlFile.qml</file>
+        <file>PatchPage.qml</file>
+        <file>PatchPageForm.ui.qml</file>
+        <file>patchmain.qml</file>
     </qresource>
 </RCC>
