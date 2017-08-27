@@ -4,5 +4,8 @@
         <file>MainPage.qml</file>
         <file>MainPageForm.ui.qml</file>
         <file>qtquickcontrols2.conf</file>
+        <file>Simple.qml</file>
+        <file>SimpleForm.ui.qml</file>
+        <file>AQmlFile.qml</file>
     </qresource>
 </RCC>
